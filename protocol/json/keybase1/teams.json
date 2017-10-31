@@ -1578,6 +1578,10 @@
         {
           "name": "email",
           "type": "string"
+        },
+        {
+          "name": "inviteID",
+          "type": "TeamInviteID"
         }
       ],
       "response": null
